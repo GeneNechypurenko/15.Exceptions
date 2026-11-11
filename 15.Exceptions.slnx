@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.TryCatchTrow/01.TryCatchTrow.vcxproj" Id="6307c686-581a-417c-8be9-d9cad752d1f1" />
+  <Project Path="02.StackUnwinding/02.StackUnwinding.vcxproj" Id="e2dba3f9-5886-4840-86ad-2be723ae05f7" />
+  <Project Path="03.StandardExceptions/03.StandardExceptions.vcxproj" Id="252cbbd2-7ad1-4a55-bc52-9666608e4fce" />
+  <Project Path="04.CustomExceptions/04.CustomExceptions.vcxproj" Id="6c39a68d-22d6-4bf4-9174-5fedbe4cbcef" />
+  <Project Path="05.Rethrow/05.Rethrow.vcxproj" Id="410f2f7b-d3ff-4add-878b-86ecd7776e6d" />
+  <Project Path="HomeWork35/HomeWork35.vcxproj" Id="cb455b2b-9dac-4b4e-b1b5-807ab976da7a" />
+</Solution>

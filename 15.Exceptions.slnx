@@ -9,4 +9,5 @@
   <Project Path="04.CustomExceptions/04.CustomExceptions.vcxproj" Id="6c39a68d-22d6-4bf4-9174-5fedbe4cbcef" />
   <Project Path="05.Rethrow/05.Rethrow.vcxproj" Id="410f2f7b-d3ff-4add-878b-86ecd7776e6d" />
   <Project Path="HomeWork35/HomeWork35.vcxproj" Id="cb455b2b-9dac-4b4e-b1b5-807ab976da7a" />
+  <Project Path="HW35Solution/HW35Solution.vcxproj" Id="93dd22be-1fbe-49ad-9a7f-228c2214caf6" />
 </Solution>
